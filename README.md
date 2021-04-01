@@ -5,6 +5,8 @@ A collection of cv-interview problems and answers
 ### 1. Coding
 - [C++学习视频](https://www.bilibili.com/video/BV1et411b73Z?from=search&seid=18167644560005164073)
   - [搭配的学习笔记](https://blog.csdn.net/ClaireSy/article/details/108422945) 
+- __算法刷题优质github__
+  - [algorithm-base](https://github.com/chefyuan/algorithm-base)
 
 ### 2. Basic Knowledge
 
