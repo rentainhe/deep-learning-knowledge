@@ -8,3 +8,4 @@ A collection of cv-interview problems and answers
 
 ### 2. Basic Knowledge
 - [交叉熵你真的懂了吗？](https://zhuanlan.zhihu.com/p/61944055)
+- [为什么分类任务使用交叉熵？](https://zhuanlan.zhihu.com/p/104130889)
